@@ -17,3 +17,4 @@
 ### ETC
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 - [Uber - RIBs (Cross-platform mobile architecture)](https://github.com/uber/RIBs)
+- [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
