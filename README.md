@@ -20,4 +20,4 @@
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 
 ### Clean Architecture
-- [DroidKaigi](https://github.com/DroidKaigi/conference-app-2018)
+- [DroidKaigi 2018 official Android app](https://github.com/DroidKaigi/conference-app-2018)
