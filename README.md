@@ -18,6 +18,9 @@
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 - [Uber - RIBs (Cross-platform mobile architecture)](https://github.com/uber/RIBs)
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
+- [Lets-Study](https://github.com/JoMingyu/Lets-Study)
 
-### Clean Architecture
+## Clean Architecture
 - [DroidKaigi 2018 official Android app](https://github.com/DroidKaigi/conference-app-2018)
+- [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
+- [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
