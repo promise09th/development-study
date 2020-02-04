@@ -1,6 +1,6 @@
 # Development Study
 
-> **개발 관련 Site / Github 및 흥미위주 Link 모음**   
+> 개발 관련 Site / Github 및 흥미위주 Link 모음   
 > 추후 정리 예정
 
 ****
@@ -36,3 +36,4 @@
 - [Uber - RIBs (Cross-platform mobile architecture)](https://github.com/uber/RIBs)
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 - [Lets-Study](https://github.com/JoMingyu/Lets-Study)
+- [Markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601#file-gistfile1-md)
