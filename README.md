@@ -39,6 +39,7 @@
 - [Lets-Study](https://github.com/JoMingyu/Lets-Study)
 - [Innovation Academy](https://github.com/innovationacademy-kr/software-resources)
 
+****
 ## ETC
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 - [Uber - RIBs (Cross-platform mobile architecture)](https://github.com/uber/RIBs)
