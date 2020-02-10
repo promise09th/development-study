@@ -5,6 +5,10 @@
 
 ****
 ## Development Website
+- [Google](https://developers.googleblog.com/)
+- [Google - KR](https://developers-kr.googleblog.com/)
+- [Google - Android](https://developer.android.com/)
+- [Line Engineering](https://engineering.linecorp.com/ko/blog/)
 - [NAVER D2](https://d2.naver.com/home)
 - [Kakao Tech](https://tech.kakao.com/)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
@@ -31,9 +35,13 @@
 - [WikibooksHaskell](https://wikidocs.net/book/204)
 
 ****
+## Study blog
+- [Lets-Study](https://github.com/JoMingyu/Lets-Study)
+- [Innovation Academy](https://github.com/innovationacademy-kr/software-resources)
+
 ## ETC
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 - [Uber - RIBs (Cross-platform mobile architecture)](https://github.com/uber/RIBs)
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
-- [Lets-Study](https://github.com/JoMingyu/Lets-Study)
 - [Markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601#file-gistfile1-md)
+- [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf)
