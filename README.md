@@ -15,7 +15,7 @@
 
 ****
 ## Google Samples
-- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
+- [Android Architecture Blueprints v2](https://github.com/googlesamples/android-architecture)
 - [Android Architecture Components samples](https://github.com/googlesamples/android-architecture-components)
 - [MotionLayout / Constraint Layout Samples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 - [Android RecyclerView Sample](https://github.com/googlesamples/android-RecyclerView)
