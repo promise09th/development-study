@@ -38,6 +38,7 @@
 ## Study blog
 - [Lets-Study](https://github.com/JoMingyu/Lets-Study)
 - [Innovation Academy](https://github.com/innovationacademy-kr/software-resources)
+- [신입 개발자 전공 지식 & 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer)
 
 ****
 ## ETC
