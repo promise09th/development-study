@@ -22,10 +22,11 @@
 - [Material Design](https://material.io/)
 
 ****
-## Clean Architecture
+## Android Architecture
 - [DroidKaigi 2018 official Android app](https://github.com/DroidKaigi/conference-app-2018)
 - [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
+- [Android MVVM Architecture: Sample App](https://github.com/MindorksOpenSource/android-mvvm-architecture)
 
 ****
 ## Functional Programming
