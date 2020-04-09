@@ -24,6 +24,7 @@
 ****
 ## Android Architecture
 - [DroidKaigi 2018 official Android app](https://github.com/DroidKaigi/conference-app-2018)
+- [DroidKaigi 2020 official Android app](https://github.com/DroidKaigi/conference-app-2020)
 - [[번역] DroidKaigi 2018 ~ MVVM Best Practice](http://pluu.github.io/blog/android/droidkaigi/2018/06/24/droidkaigi-mvvm/)
 - [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
