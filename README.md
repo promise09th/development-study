@@ -32,7 +32,7 @@
 ## Android Clean Architecture
 - [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
-- [Buffer - mvvm clean](https://github.com/bufferapp/android-clean-architecture-boilerplate)
+- [Buffer - mvp clean](https://github.com/bufferapp/android-clean-architecture-boilerplate)
 - [Buffer - mvi clean](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
 
 ****
