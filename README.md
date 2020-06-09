@@ -34,7 +34,8 @@
 - [우아한 형제들 - 주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 - [Buffer - mvp clean](https://github.com/bufferapp/android-clean-architecture-boilerplate)
 - [Buffer - mvvm clean](https://github.com/bufferapp/clean-architecture-components-boilerplate)
-- [Buffer - mvi clean](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
+- [Buffer - mvi clean](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)\
+- [android10 - Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 
 ****
 ## Functional Programming
