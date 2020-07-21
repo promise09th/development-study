@@ -1,7 +1,6 @@
 # Development Study
 
-> 개발 관련 Site / Github 및 흥미위주 Link 모음   
-> 추후 정리 예정
+> 개발 관련 Site / Github 및 흥미위주 Link 모음
 
 ****
 ## Development Website
@@ -43,6 +42,11 @@
 - [프로그래머를 위한 카테고리 이론](https://github.com/pilgwon/CategoryTheory)
 - [Functional Programming in Scala](https://github.com/kpug/fpis)
 - [WikibooksHaskell](https://wikidocs.net/book/204)
+
+****
+## Kotlin
+- [Kotlin Official Site](https://kotlinlang.org/)
+- [Kotlin Coroutine 분석](https://medium.com/@myungpyo/reading-coroutine-official-guide-thoroughly-part-0-20176d431e9d)
 
 ****
 ## Study blog
