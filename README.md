@@ -50,8 +50,8 @@
 
 ****
 ## Unit test
-- [테스트 기본 요소](https://developer.android.com/training/testing/fundamentals)
-- [Android 테스트 샘플](https://github.com/android/testing-samples)
+- [Android developer - Android에서 앱 테스트](https://developer.android.com/training/testing?hl=ko)
+- [Android developer - Android 테스트 샘플](https://github.com/android/testing-samples)
 
 ****
 ## Study blog
