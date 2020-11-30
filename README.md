@@ -31,6 +31,7 @@
 ## Android Clean Architecture
 - [우아한 형제들 - 클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 - [우아한 형제들 - 주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
+- [Buffer - Rebuilding the Buffer Android Composer](https://buffer.com/resources/rebuild-android-composer/)
 - [Buffer - mvp clean](https://github.com/bufferapp/android-clean-architecture-boilerplate)
 - [Buffer - mvvm clean](https://github.com/bufferapp/clean-architecture-components-boilerplate)
 - [Buffer - mvi clean](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
