@@ -19,6 +19,7 @@
 - [MotionLayout / Constraint Layout Samples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 - [Android RecyclerView Sample](https://github.com/googlesamples/android-RecyclerView)
 - [Material Design](https://material.io/)
+- [Guide to app architecture ](https://developer.android.com/jetpack/guide?hl=ko)
 
 ****
 ## Android Architecture
