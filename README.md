@@ -4,12 +4,12 @@
 
 ****
 ## Development Website
-- [Google](https://developers.googleblog.com/)
-- [Google - KR](https://developers-kr.googleblog.com/)
-- [Google - Android](https://developer.android.com/)
-- [Line Engineering](https://engineering.linecorp.com/ko/blog/)
-- [NAVER D2](https://d2.naver.com/home)
+- [Google Developers](https://developers.googleblog.com/)
+- [Google Developers - KR](https://developers-kr.googleblog.com/)
+- [Google Developer - Android](https://developer.android.com/)
 - [Kakao Tech](https://tech.kakao.com/)
+- [NAVER D2](https://d2.naver.com/home)
+- [Line Engineering](https://engineering.linecorp.com/ko/blog/)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
 
 ****
@@ -27,7 +27,6 @@
 - [DroidKaigi 2020 official Android app](https://github.com/DroidKaigi/conference-app-2020)
 - [[번역] DroidKaigi 2018 ~ MVVM Best Practice](http://pluu.github.io/blog/android/droidkaigi/2018/06/24/droidkaigi-mvvm/)
 - [MindOrks - Android MVVM Architecture: Sample App](https://github.com/MindorksOpenSource/android-mvvm-architecture)
-- [Mavericks (formerly MvRx): Android on Autopilot](https://github.com/airbnb/mavericks)
 
 ****
 ## Android Clean Architecture
@@ -56,6 +55,11 @@
 ## Unit test
 - [Android developer - Android에서 앱 테스트](https://developer.android.com/training/testing?hl=ko)
 - [Android developer - Android 테스트 샘플](https://github.com/android/testing-samples)
+
+****
+## Android Library
+- [Mavericks (formerly MvRx): Android on Autopilot](https://github.com/airbnb/mavericks)
+- [Dependency injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android?hl=ko)
 
 ****
 ## Study blog
