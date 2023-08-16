@@ -16,8 +16,6 @@
 ## Google Samples
 - [Android Architecture Samples](https://github.com/googlesamples/android-architecture)
 - [Android Architecture Components samples](https://github.com/googlesamples/android-architecture-components)
-- [MotionLayout / Constraint Layout Samples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
-- [Android RecyclerView Sample](https://github.com/googlesamples/android-RecyclerView)
 - [Material Design](https://material.io/)
 - [Guide to app architecture ](https://developer.android.com/jetpack/guide?hl=ko)
 
@@ -33,13 +31,14 @@
 - [우아한 형제들 - 클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 - [우아한 형제들 - 주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 - [Buffer - Rebuilding the Buffer Android Composer](https://buffer.com/resources/rebuild-android-composer/)
-- [Buffer - mvp clean](https://github.com/bufferapp/android-clean-architecture-boilerplate)
-- [Buffer - mvvm clean](https://github.com/bufferapp/clean-architecture-components-boilerplate)
-- [Buffer - mvi clean](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
+  - [mvp clean](https://github.com/bufferapp/android-clean-architecture-boilerplate)
+  - [mvvm clean](https://github.com/bufferapp/clean-architecture-components-boilerplate)
+  - [mvi clean](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
 - [android10 - Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 
 ****
 ## Android Compose
+- [Android Compose Tutorial](https://developer.android.com/jetpack/compose/tutorial)
 - [Android Sunflower with Compose](https://github.com/android/sunflower)
 
 ****
